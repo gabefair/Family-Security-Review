@@ -14,7 +14,6 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Perform CloudFlare's Browsing Experience Security Check
 - [ ] Consider using encrypted-sni
 - [ ] Review the cost/benefit of disabling what'sApp backups
-- [ ] https://www.youtube.com/watch?v=13BahrdkMU8
 - [ ] Google for any leaks of your biometric information
 - [ ] Use a browser that is NOT Chrome, or Edge. Suggestions include Brave Browser, Waterfox, and Firefox
 - [ ] If using Firefox, Use Firefox Monitor
@@ -61,6 +60,12 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Plan for your house burning down. Would you still have all your passwords? Would you lose access to any crypto currencies?
 - [ ] Consider putting your passwords and accounts in an encrypted file. Place this file inside an password protected archive folder. Give this archive to two of your trusted friends, but to each of them only one password. This can serve as a backup or deadman switch.
 
+### Education
+- [ ] Understand the importance of paying for a VPN
+- [ ] Understand what a The Five Eyes (FVEY) country is and how that list has been expanded to include others.
+- [ ] Understand that your location is tracked from the sky from the moment you leave your house from space: https://www.youtube.com/watch?v=13BahrdkMU8
+- [ ] Understand that the Slaughterbots dramatization is a warning and is coming soon: https://www.youtube.com/watch?v=HipTO_7mUOw
+- [ ] Understand the OSI 7 layer stack and how privacy can be comprimised in any of the layers
 
 We need to talk about security and privacy in order to share tips and tricks and discuss how effective they are. I hope this list helps. Please open an issue ticket with updates or suggestions. 
 
