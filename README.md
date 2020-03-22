@@ -44,7 +44,7 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Consider using keybase
 - [ ] Review Computers for installed software induced vulnerabilities and backdoors. Remember: "Freeware is killware"
 - [ ] Check https://haveibeenpwned.com/
-- [ ] Review your choice of mesh network apps, to make sure they still can be trusted. A mesh network chat app can continue to work after your government has disabled internet.
+- [ ] Review your choice of mesh network apps, to make sure they still can be trusted. A mesh network chat app can continue to work after your government has disabled internet
 
 ### Practices
 - [ ] Keep a list of all the apps/software/sites you and your family uses or has accounts with
@@ -53,5 +53,15 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Make it a happen to check the settings or preferences of any app you install or use
 - [ ] After creating an account on a service or website check the settings. Look for privacy or security settings
 
+### Contingency
+- [ ] Download a copy of your facebook @ facebook.com/download
+- [ ] Download a copy of all data from your gmail account
+- [ ] Pick a random site or service that you use. Imagine if you woke up one day with it all deleted. Prepare your next steps
+- [ ] Plan for a sim swap attack against you or your family. Have a checklist prepared
+- [ ] Plan for your house burning down. Would you still have all your passwords? Would you lose access to any crypto currencies?
+- [ ] Consider putting your passwords and accounts in an encrypted file. Place this file inside an password protected archive folder. Give this archive to two of your trusted friends, but to each of them only one password. This can serve as a backup or deadman switch.
 
-We need to talk about security and privacy in order to share tips and tricks and discuss how effective they are. I hope this list helps. Please open an issue ticket with updates or suggestions.
+
+We need to talk about security and privacy in order to share tips and tricks and discuss how effective they are. I hope this list helps. Please open an issue ticket with updates or suggestions. 
+
+*Always check the settings*
