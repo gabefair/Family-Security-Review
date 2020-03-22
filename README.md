@@ -21,9 +21,30 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] If using Firefox, Use Facebook Continers extension by Mozilla (The creators of firefox)
 - [ ] Turn off personalized ads on Google Products
 - [ ] Turn off personalized ads on Windows 10
+- [ ] Consider using an sms encryption app like Signal. Avoid using telegram or WhatsApp
 - [ ] Opt-out of interest-based advertising by companies participating in the Digital Advertising Alliance (“DAA”) at the DAA’s Choice Page, located at http://www.aboutads.info/choices
 
+### Security
 
+- [ ] Make sure 2fa is enabled for all financial, social, and critical sites
+- [ ] Make sure 2fa does not use Text message (SMS)
+- [ ] Make a list of all financial/401k/HSA/retirement/investment/loan Accounts
+- [ ] Make sure financial accounts have correct mailing address
+- [ ] Make sure USPS mail forwarding is renewed on any previous residences
+- [ ] Review emergency contacts on phones
+- [ ] Review emergency medical information on phones
+- [ ] Review blocked numbers and contacts on phones
+- [ ] Review blocked numbers and contacts on social media sites
+- [ ] Create/review code words for each other
+- [ ] Create/review code phrases for each other
+- [ ] Create/review a cognitive key
+- [ ] Review Yubikey usage
+- [ ] Review any Cryptocurrency wallets and balences
+- [ ] Review your sms encryption app for zero days or bad press coverage
+- [ ] Consider using keybase
+- [ ] Review Computers for installed software induced vulnerabilities and backdoors. Remember: "Freeware is killware"
+- [ ] Check https://haveibeenpwned.com/
+- [ ] Review your choice of mesh network apps, to make sure they still can be trusted. A mesh network chat app can continue to work after your government has disabled internet.
 
 
 
