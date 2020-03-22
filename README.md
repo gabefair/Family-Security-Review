@@ -1,4 +1,4 @@
-# Family-Security-Review
+# Family Security and Privacy Review
 Every six months I walk my family, roommates, and friends through a security and privacy review. Also it serves as a conversation regarding its importance and a sharing of news, rumors, and new concerns. Here is what is on my checklist:
 
 ### Privacy
@@ -46,6 +46,12 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Check https://haveibeenpwned.com/
 - [ ] Review your choice of mesh network apps, to make sure they still can be trusted. A mesh network chat app can continue to work after your government has disabled internet.
 
+### Practices
+- [ ] Keep a list of all the apps/software/sites you and your family uses or has accounts with
+- [ ] In this list, flag which are closed-source
+- [ ] In this list, flag which are developed in countries you do not trust
+- [ ] Make it a happen to check the settings or preferences of any app you install or use
+- [ ] After creating an account on a service or website check the settings. Look for privacy or security settings
 
 
 We need to talk about security and privacy in order to share tips and tricks and discuss how effective they are. I hope this list helps. Please open an issue ticket with updates or suggestions.
