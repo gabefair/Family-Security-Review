@@ -27,6 +27,7 @@ Every six months I walk my family, roommates, and friends through a security and
 
 - [ ] Make sure 2fa is enabled for all financial, social, and mission-critical sites
 - [ ] Make sure 2fa does not use Text message (SMS)
+- [ ] Consider using a [YubiKey](https://security.stackexchange.com/q/17922/6402)
 - [ ] Make a list of all financial/401k/HSA/retirement/investment/loan Accounts
 - [ ] Make sure financial accounts have correct mailing address
 - [ ] Make sure USPS mail forwarding is renewed on any previous residences
