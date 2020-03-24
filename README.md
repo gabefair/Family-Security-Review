@@ -56,12 +56,14 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Consider being more intentional and stragetic with how you choose your passwords. [Consider the pros/cons of my password system](https://docs.google.com/document/d/1mBnwHLMqtHWdgvhLyzcLtfrguBWTmDJ4Libn90__fW8/edit?usp=sharing)
 
 ### Contingency
+- [ ] Make sure all of your devices are backed up and secured
 - [ ] Download a copy of your facebook @ facebook.com/download
 - [ ] Download a copy of all data from your gmail account
 - [ ] Pick a random site or service that you use. Imagine if you woke up one day with it all deleted. Prepare your next steps
 - [ ] Plan for a sim swap attack against you or your family. Have a checklist prepared
 - [ ] Plan for your house burning down. Would you still have all your passwords? Would you lose access to any crypto currencies?
 - [ ] Consider putting your passwords and accounts in an encrypted file. Place this file inside an password protected archive folder. Give this archive to two of your trusted friends, but to each of them only one password. This can serve as a backup or deadman switch.
+- [ ] Consider expanding a mesh network of your choice by running the software or hardware. Like [goTenna Mesh](https://imeshyou.gotennamesh.com/)
 
 ### Education
 - [ ] Government run troll farms will use your social media accounts to like or comment on posts without your knowledge. Use 2fa!
