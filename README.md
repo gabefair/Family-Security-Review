@@ -53,6 +53,7 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] In this list, flag which are developed in countries you do not trust
 - [ ] Make it a happen to check the settings or preferences of any app you install or use
 - [ ] After creating an account on a service or website check the settings. Look for privacy or security settings
+- [ ] Consider being more intentional and stragetic with how you choose your passwords. [Consider the pros/cons of my password system](https://docs.google.com/document/d/1mBnwHLMqtHWdgvhLyzcLtfrguBWTmDJ4Libn90__fW8/edit?usp=sharing)
 
 ### Contingency
 - [ ] Download a copy of your facebook @ facebook.com/download
