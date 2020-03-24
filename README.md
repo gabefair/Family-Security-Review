@@ -25,7 +25,7 @@ Every six months I walk my family, roommates, and friends through a security and
 
 ### Security
 
-- [ ] Make sure 2fa is enabled for all financial, social, and critical sites
+- [ ] Make sure 2fa is enabled for all financial, social, and mission-critical sites
 - [ ] Make sure 2fa does not use Text message (SMS)
 - [ ] Make a list of all financial/401k/HSA/retirement/investment/loan Accounts
 - [ ] Make sure financial accounts have correct mailing address
@@ -61,6 +61,8 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Consider putting your passwords and accounts in an encrypted file. Place this file inside an password protected archive folder. Give this archive to two of your trusted friends, but to each of them only one password. This can serve as a backup or deadman switch.
 
 ### Education
+- [ ] Government run troll farms will use your social media accounts to like or comment on posts without your knowledge. Use 2fa!
+- [ ] Learn that sms based 2fa can not be trusted and is easily hacked. DuckDuckGo "ss7 protocol hack"
 - [ ] Understand the importance of paying for a VPN
 - [ ] Understand what a The Five Eyes (FVEY) country is and how that list has been expanded to include others.
 - [ ] Understand that your location is tracked from the sky from the moment you leave your house from space: https://www.youtube.com/watch?v=13BahrdkMU8
