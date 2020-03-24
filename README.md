@@ -7,7 +7,7 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Set up connecting devices to generate random MAC addresses when connecting to WiFi
 - [ ] Make sure no apps can access google emails or google drive
 - [ ] Make sure no app tokens have been generated on dropbox/box/mega/onedrive accounts
-- [ ] Make sure no app tokens have been generated on twitter/facebook/github accounts
+- [ ] Make sure no app tokens have been generated on any reddit/twitter/facebook/github accounts
 - [ ] With a fresh device, on a never used wifi, do a google search for each other's names and handles, share findings
 - [ ] Ensure phones have disk encryption enabled
 - [ ] Ensure computing devices have disk encryption enabled
@@ -39,6 +39,7 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Create/review code phrases for each other
 - [ ] Create/review a cognitive key
 - [ ] Review Yubikey usage
+- [ ] Ensure all devices are still getting updates, without any issues. Note any devices or software that are no longer supported
 - [ ] Review any Cryptocurrency wallets and balences
 - [ ] Review your sms encryption app for zero days or bad press coverage
 - [ ] Consider using keybase
