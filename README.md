@@ -25,10 +25,11 @@ Every six months I walk my family, roommates, and friends through a security and
 
 ### Security
 
-- [ ] Make sure 2fa is enabled for all financial, social, and mission-critical sites
-- [ ] Make sure 2fa does not use Text message (SMS)
+- [ ] Make sure 2fa is enabled for all your accounts. Especially any financial, social, and mission-critical sites
+- [ ] Make sure 2fa does not use Text message (SMS). DuckDuckGo "ss7 protocol hack"
 - [ ] Consider using a [YubiKey](https://security.stackexchange.com/q/17922/6402)
 - [ ] Make a list of all financial/401k/HSA/retirement/investment/loan Accounts
+- [ ] Walk through your account list and change your passwords
 - [ ] Make sure financial accounts have correct mailing address
 - [ ] Make sure USPS mail forwarding is renewed on any previous residences
 - [ ] Review emergency contacts on phones
@@ -46,6 +47,8 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Review Computers for installed software induced vulnerabilities and backdoors. Remember: "Freeware is killware"
 - [ ] Check https://haveibeenpwned.com/
 - [ ] Review your choice of mesh network apps, to make sure they still can be trusted. A mesh network chat app can continue to work after your government has disabled internet
+- [ ] Make sure your home router/modem has up-to-date firmware. Consider buying your own instead of leasing from your ISP
+- [ ] Change your SSID name and password
 
 ### Practices
 - [ ] Keep a list of all the apps/software/sites you and your family uses or has accounts with
@@ -73,6 +76,8 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Understand that your location is tracked from the sky from the moment you leave your house from space: https://www.youtube.com/watch?v=13BahrdkMU8
 - [ ] Understand that the Slaughterbots dramatization is a warning and is coming soon: https://www.youtube.com/watch?v=HipTO_7mUOw
 - [ ] Understand the OSI 7 layer stack and how privacy can be comprimised in any of the layers
+- [ ] Read and follow ways to secure your home network and modem/router @ [RouterSecurity.org](https://routersecurity.org/checklist.php)
+- [ ] Read other Security Review lists i.e. [A Defensive Computing Checklist by Michael Horowitz](https://defensivecomputingchecklist.com/)
 
 We need to talk about security and privacy in order to share tips and tricks and discuss how effective they are. I hope this list helps. Please open an issue ticket with updates or suggestions. 
 
