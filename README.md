@@ -49,6 +49,7 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Review your choice of mesh network apps, to make sure they still can be trusted. A mesh network chat app can continue to work after your government has disabled internet
 - [ ] Make sure your home router/modem has up-to-date firmware. Consider buying your own instead of leasing from your ISP
 - [ ] Change your SSID name and password
+- [ ] Unlink your e2e chat apps from other devices. Relink where approprate. i.e. web.whatsapp.com, signal app, telegram, keybase.io, etc
 
 ### Practices
 - [ ] Keep a list of all the apps/software/sites you and your family uses or has accounts with
@@ -78,6 +79,7 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Understand the OSI 7 layer stack and how privacy can be comprimised in any of the layers
 - [ ] Read and follow ways to secure your home network and modem/router @ [RouterSecurity.org](https://routersecurity.org/checklist.php)
 - [ ] Read other Security Review lists i.e. [A Defensive Computing Checklist by Michael Horowitz](https://defensivecomputingchecklist.com/)
+- [ ] Learn that Whats App stores backups of your chats in plaintext on google's servers in a free data sharing aggreeement.
 
 We need to talk about security and privacy in order to share tips and tricks and discuss how effective they are. I hope this list helps. Please open an issue ticket with updates or suggestions. 
 
