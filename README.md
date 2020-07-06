@@ -70,6 +70,7 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Consider expanding a mesh network of your choice by running the software or hardware. Like [goTenna Mesh](https://imeshyou.gotennamesh.com/)
 
 ### Education
+- [ ] View how an ad agency profiles you, using outbrain's [interest viewer tool](https://my.outbrain.com/recommendations-settings/home)
 - [ ] Government run troll farms will use your social media accounts to like or comment on posts without your knowledge. Use 2fa!
 - [ ] Learn that sms based 2fa can not be trusted and is easily hacked. DuckDuckGo "ss7 protocol hack"
 - [ ] Understand the importance of paying for a VPN
