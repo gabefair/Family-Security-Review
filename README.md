@@ -5,7 +5,7 @@ Every six months I walk my family, roommates, and friends through a security and
 
 - [ ] Change all device names to something else
 - [ ] Set up connecting devices to generate random MAC addresses when connecting to WiFi
-- [ ] Make sure no apps can access google emails or google drive
+- [ ] Check which [3rd-party apps](https://support.google.com/accounts/answer/3466521) have access to your Google account, specifically making sure they can't access gmails or google drive
 - [ ] Make sure no app tokens have been generated on dropbox/box/mega/onedrive accounts
 - [ ] Make sure no app tokens have been generated on any reddit/twitter/facebook/github accounts
 - [ ] With a fresh device, on a never used wifi, do a google search for each other's names and handles, share findings
@@ -42,7 +42,7 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Create/review a cognitive key
 - [ ] Review Yubikey usage
 - [ ] Ensure all devices are still getting updates, without any issues. Note any devices or software that are no longer supported
-- [ ] Review any Cryptocurrency wallets and balences
+- [ ] Review any Cryptocurrency wallets and balances
 - [ ] Review your sms encryption app for zero days or bad press coverage
 - [ ] Consider using keybase
 - [ ] Review Computers for installed software induced vulnerabilities and backdoors. Remember: "Freeware is killware"
@@ -50,7 +50,7 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Review your choice of mesh network apps, to make sure they still can be trusted. A mesh network chat app can continue to work after your government has disabled internet
 - [ ] Make sure your home router/modem has up-to-date firmware. Consider buying your own instead of leasing from your ISP
 - [ ] Change your SSID name and password
-- [ ] Unlink your e2e chat apps from other devices. Relink where approprate. i.e. web.whatsapp.com, signal app, telegram, keybase.io, etc
+- [ ] Unlink your e2e chat apps from other devices. Relink where appropriate. i.e. web.whatsapp.com, signal app, telegram, keybase.io, etc
 
 ### Practices
 - [ ] Keep a list of all the apps/software/sites you and your family uses or has accounts with
@@ -58,7 +58,7 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] In this list, flag which are developed in countries you do not trust
 - [ ] Make it a happen to check the settings or preferences of any app you install or use
 - [ ] After creating an account on a service or website check the settings. Look for privacy or security settings
-- [ ] Consider being more intentional and stragetic with how you choose your passwords. [Consider the pros/cons of my password system](https://docs.google.com/document/d/1mBnwHLMqtHWdgvhLyzcLtfrguBWTmDJ4Libn90__fW8/edit?usp=sharing)
+- [ ] Consider being more intentional and strategic with how you choose your passwords. [Consider the pros/cons of my password system](https://docs.google.com/document/d/1mBnwHLMqtHWdgvhLyzcLtfrguBWTmDJ4Libn90__fW8/edit?usp=sharing)
 
 ### Contingency
 - [ ] Make sure all of your devices are backed up and secured
@@ -67,7 +67,7 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Pick a random site or service that you use. Imagine if you woke up one day with it all deleted. Prepare your next steps
 - [ ] Plan for a sim swap attack against you or your family. Have a checklist prepared
 - [ ] Plan for your house burning down. Would you still have all your passwords? Would you lose access to any crypto currencies?
-- [ ] Consider putting your passwords and accounts in an encrypted file. Place this file inside an password protected archive folder. Give this archive to two of your trusted friends, but to each of them only one password. This can serve as a backup or deadman switch.
+- [ ] Consider putting your passwords and accounts in an encrypted file. Place this file inside a password protected archive folder. Give this archive to two of your trusted friends, but to each of them only one password. This can serve as a backup or deadman switch.
 - [ ] Consider expanding a mesh network of your choice by running the software or hardware. Like [goTenna Mesh](https://imeshyou.gotennamesh.com/)
 
 ### Education
@@ -79,10 +79,10 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Understand what a The Five Eyes (FVEY) country is and how that list has been expanded to include others.
 - [ ] Understand that your location is tracked from the sky from the moment you leave your house from space: https://www.youtube.com/watch?v=13BahrdkMU8
 - [ ] Understand that the Slaughterbots dramatization is a warning and is coming soon: https://www.youtube.com/watch?v=HipTO_7mUOw
-- [ ] Understand the OSI 7 layer stack and how privacy can be comprimised in any of the layers
+- [ ] Understand the OSI 7 layer stack and how privacy can be compromised in any of the layers
 - [ ] Read and follow ways to secure your home network and modem/router @ [RouterSecurity.org](https://routersecurity.org/checklist.php)
 - [ ] Read other Security Review lists i.e. [A Defensive Computing Checklist by Michael Horowitz](https://defensivecomputingchecklist.com/)
-- [ ] Learn that Whats App stores backups of your chats in plaintext on google's servers in a free data sharing aggreeement.
+- [ ] Learn that WhatsApp stores backups of your chats in plaintext on google's servers in a free data sharing agreement.
 
 We need to talk about security and privacy in order to share tips and tricks and discuss how effective they are. I hope this list helps. Please open an issue ticket with updates or suggestions. 
 
