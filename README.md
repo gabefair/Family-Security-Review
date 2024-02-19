@@ -22,7 +22,7 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Turn off personalized ads on Windows 10
 - [ ] Consider using an sms encryption app like Signal. Avoid using telegram or WhatsApp
 - [ ] Opt-out of interest-based advertising by companies participating in the Digital Advertising Alliance (“DAA”) at the DAA’s Choice Page, located at http://www.aboutads.info/choices
-- [ ] Perform a privacy & security check of Windows 10 using the open source [privatezilla](https://github.com/Sophia-Community/SophiApp)
+- [ ] Perform a privacy & security check of Windows 10 using the open source [SophiApp](https://github.com/Sophia-Community/SophiApp)
 
 ### Security
 
