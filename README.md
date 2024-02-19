@@ -44,7 +44,7 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Ensure all devices are still getting updates, without any issues. Note any devices or software that are no longer supported
 - [ ] Review any Cryptocurrency wallets and balances
 - [ ] Review your sms encryption app for zero days or bad press coverage
-- [ ] Consider using keybase
+- ~~[ ] Consider using keybase~~
 - [ ] Review Computers for installed software induced vulnerabilities and backdoors. Remember: "Freeware is killware"
 - [ ] Check https://haveibeenpwned.com/
 - [ ] Review your choice of mesh network apps, to make sure they still can be trusted. A mesh network chat app can continue to work after your government has disabled internet
@@ -68,7 +68,7 @@ Every six months I walk my family, roommates, and friends through a security and
 - [ ] Plan for a sim swap attack against you or your family. Have a checklist prepared
 - [ ] Plan for your house burning down. Would you still have all your passwords? Would you lose access to any crypto currencies?
 - [ ] Consider putting your passwords and accounts in an encrypted file. Place this file inside a password protected archive folder. Give this archive to two of your trusted friends, but to each of them only one password. This can serve as a backup or deadman switch.
-- [ ] Consider expanding a mesh network of your choice by running the software or hardware. Like [goTenna Mesh](https://imeshyou.gotennamesh.com/)
+- [ ] Consider expanding a mesh network of your choice by running the software or hardware. Like [Bridgefy.me](https://bridgefy.me/) ~~[goTenna Mesh](https://imeshyou.gotennamesh.com/)~~
 
 ### Education
 - [ ] View how an ad agency profiles you, using outbrain's [interest viewer tool](https://my.outbrain.com/recommendations-settings/home)
